@@ -1,0 +1,2 @@
+model_checkpoint_path: "gen_80x8_1000state_RANDOMPERM_5epochs_"
+all_model_checkpoint_paths: "gen_80x8_1000state_RANDOMPERM_5epochs_"
